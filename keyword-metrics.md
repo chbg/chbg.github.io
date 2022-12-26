@@ -19,4 +19,7 @@ In addition, search volume can also help you identify opportunities to create co
 
 | Pros     | Cons |
 | ----------- | ----------- |
-| Search volume is a good indicator of the popularity of a keyword.      | It can be difficult to accurately estimate search volume, as it can vary based on factors such as location and the specific search engine being used.       |
+| Search volume is a good indicator of the popularity of a keyword. | It can be difficult to accurately estimate search volume, as it can vary based on factors such as location and the specific search engine being used. |
+| High search volume keywords can potentially drive more traffic to a website. | Targeting high search volume keywords can be competitive and may require more resources to rank well. |
+| Search volume can help prioritize which keywords to target first. | Search volume alone may not be a sufficient indicator of the value of a keyword. Other factors such as relevance, conversion rate, and competition should also be considered. |
+| Tracking changes in search volume can provide insights into the performance of an SEO campaign. | Some keywords with low search volume may still be valuable to target, especially if they are relevant to a business's products or services and have a high conversion rate. | 

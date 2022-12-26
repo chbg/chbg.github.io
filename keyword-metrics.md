@@ -42,3 +42,35 @@ Furthermore, tracking keyword difficulty over time can also help you understand 
 | Allows you to prioritize your efforts and allocate resources effectively. | May not take into account the quality or relevance of the content being optimized. |
 | Can save time and resources by avoiding keywords that are too competitive. | May not account for fluctuations in search demand or competition over time. |
 | Can help you identify opportunities for long-tail keywords with lower competition. | May not consider the specific strengths and weaknesses of your website or industry. | 
+
+### Keyword trends
+
+Keyword trends are an important SEO metric to use when building a strong keyword research foundation for a website because it measures the fluctuation of search volume for a particular keyword over time. By identifying keywords with a consistent or increasing trend in search volume, you can identify terms that may be more likely to drive traffic to your website over the long term.
+
+Tracking keyword trends can help you understand the popularity of certain keywords and phrases within your industry or market and can help you identify trends or shifts in consumer behavior. This information can be valuable when creating content for your website or adjusting your SEO strategy. For example, if you notice that a particular keyword has a consistently high trend in search volume, you may want to incorporate that keyword into your website's content in order to attract more traffic from that term. On the other hand, if you notice a declining trend in search volume for a particular keyword, you may want to adjust your strategy or consider using alternative keywords that are more popular.
+
+#### The pros and cons of using keyword trends to identify target keywords
+
+| Pros     | Cons |
+| ----------- | ----------- |
+| Keyword trends can provide insight into the popularity and search volume of different keywords. | Keyword trends may not accurately reflect the current or future demand for a particular keyword. |
+| Targeting popular keywords can potentially drive more traffic to a website. | Popular keywords may be more competitive, making it more difficult to rank for them. |
+| Using keyword trends can help businesses identify new opportunities and pivot their SEO strategy if necessary. | Relying solely on keyword trends may result in a lack of focus or a lack of differentiation from competitors. |
+| Keyword trends can provide insight into the language and terminology that users are searching for. | Focusing on keyword trends may lead to a lack of focus on the overall quality and relevance of a website's content. | 
+
+### Keyword volume by location
+
+Keyword volume by location is an important SEO metric to use when building a strong keyword research foundation for a website because it allows you to target specific locations and optimize your website for local search results. By identifying keywords with high search volume in the locations you target, you can ensure that your website is targeting the right audience and that it will be more likely to rank in local search results.
+
+Local search results are different from general search results in that they are customized to the location of the person searching. For example, if a person searches for "pizza delivery" from a location in New York City, the search results will be different from the results for the same search conducted from a location in Los Angeles. By identifying keywords with high search volume in specific locations, you can ensure that your website is targeting the right audience and that it will be more likely to rank in local search results for those locations.
+
+In addition to targeting specific locations, keyword volume by location can help you optimize your website for different languages and cultures. By identifying keywords with high search volume in specific languages or regions, you can create content that is targeted toward a specific audience and will be more likely to rank in search results for those locations.
+
+#### The pros and cons of using keyword volume by location to identify target keywords
+
+| Pros     | Cons |
+| ----------- | ----------- |
+| Allows you to target keywords that are popular in specific geographic locations, which can be more relevant to local audiences. | May result in a narrower range of keywords, which could limit the potential reach and impact of your SEO campaign. |
+| Can help you identify regional trends and opportunities. | Keyword volume can vary significantly by location, so it may not be a reliable indicator of overall search demand. |
+| Can help you optimize your website for local search engines. | It may be more time-consuming and resource-intensive to track keyword volume by location, compared to tracking overall keyword volume. |
+| Allows you to target keywords that are popular in specific geographic locations, which can be more relevant to local audiences. | May result in a narrower range of keywords, which could limit the potential reach and impact of your SEO campaign. | 

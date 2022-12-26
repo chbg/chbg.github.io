@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Keyword Metrics
+title: 🔑 Keyword Metrics
 nav_order: 2
 ---
 
